@@ -1,0 +1,4 @@
+Ejercicio 1:
+
+Crea una clase llamada Vehiculo, con un método tipoDeVehiculo(), luego crea dos clases
+hijas Auto y bicleta que sobrescribirán ese método para mostrar el tipo especifico de vehículo

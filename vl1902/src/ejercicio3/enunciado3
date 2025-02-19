@@ -1,0 +1,7 @@
+Ejercicio 3: Sistema de vehiculos
+Vamos a crear un sistema con vehiculos, donde se incluyen coches, motos y bicicletas.
+
+* Polimorfismo: Diferentes tipos de vehiculos con un comportamiento común modificado
+* Abstracción: Clase abstracta Vehiculo
+* Intefaces: Una interfaz Conducible para los vehiculos que pueden ser conducidos
+* Atributos protegidos: Atributos accesibles solo dentro de la clase y sus sublcases

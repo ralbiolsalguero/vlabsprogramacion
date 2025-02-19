@@ -1,0 +1,5 @@
+Ejercicio 2:
+
+Crea una clase abstracta Figura con el método abstracto calcularArea(). Luego
+crea dos clases derivadas, Circulo y Rectángulo, que implementen el método abstracto
+de forma específica.
