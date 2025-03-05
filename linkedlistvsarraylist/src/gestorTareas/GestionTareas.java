@@ -16,11 +16,14 @@ public class GestionTareas {
 
     public static void main(String[] args) {
 
+
+
         ArrayList<String> tareaArrayList = new ArrayList<>(); //es rapido de acceder a elementos
         LinkedList<String> tareasLinkedList = new LinkedList<>(); //Es mas eficinete para insertar y eliminar elementos
         Scanner scn = new Scanner(System.in);
         int opcion, indice;
         String tarea;
+
 
         do{
             System.out.println("Menú de gestión de tareas");
