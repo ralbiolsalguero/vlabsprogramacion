@@ -2,14 +2,18 @@ package gestorTareasTiempo;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
-import java.util.Scanner;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        //Collections.sort A-Z
-        //Collections.reverse Z-A
+        /*
+         * MODIFICAR EL CÓDIGO PARA MEDIR TIEMPOS DE EJECUCIÓN
+         * 1. Insercción de 100.000 elementos
+         * 2. Eliminación de 100 elementos al inicio.
+         * 3. Acceso aleatorio a 100 elementos
+         * Consejos: utilizad constnates, utilizar System.nanoTime(), Math.random()
+         * */
 
         long inicio, fin;
 
