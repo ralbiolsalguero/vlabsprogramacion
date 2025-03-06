@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodigoTutoria0302/CodigoTutoria0302.iml" filepath="$PROJECT_DIR$/CodigoTutoria0302/CodigoTutoria0302.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO_Cuenta/POO_Cuenta.iml" filepath="$PROJECT_DIR$/POO_Cuenta/POO_Cuenta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursividad/Recursividad.iml" filepath="$PROJECT_DIR$/Recursividad/Recursividad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolucionEjerNav/SolucionEjerNav.iml" filepath="$PROJECT_DIR$/SolucionEjerNav/SolucionEjerNav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayList/arrayList.iml" filepath="$PROJECT_DIR$/arrayList/arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlistDAW/linkedlistDAW.iml" filepath="$PROJECT_DIR$/linkedlistDAW/linkedlistDAW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlistvsarraylist/linkedlistvsarraylist.iml" filepath="$PROJECT_DIR$/linkedlistvsarraylist/linkedlistvsarraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodosVL/metodosVL.iml" filepath="$PROJECT_DIR$/metodosVL/metodosVL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vl1902/vl1902.iml" filepath="$PROJECT_DIR$/vl1902/vl1902.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vlab1802/vlab1802.iml" filepath="$PROJECT_DIR$/vlab1802/vlab1802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vlabsprogramacion.iml" filepath="$PROJECT_DIR$/.idea/vlabsprogramacion.iml" />
+    </modules>
+  </component>
+</project>
