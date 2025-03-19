@@ -1,0 +1,3 @@
+La peculiaridad es que son excepciones no controladas.
+No hace falta el uso de try-catch ni throws
+Se detectan en tiempo de ejecución

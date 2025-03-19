@@ -1,0 +1,4 @@
+printStackTrace() -> Muestra la traza completa de la excepción incluyendo:
+- Tipo de excepción
+- Mensaje de error
+- Linea exacta donde ha saltado la excepción
