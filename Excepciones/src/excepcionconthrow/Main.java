@@ -14,6 +14,8 @@ public class Main {
     }
     static void validarEdad(int edad){
         if(edad<18){
+            //Coche c1 = new Coche("16535GHJ");
+            //coche.arrancar();
             throw new IllegalArgumentException("Debe ser mayor a 18 años");
         }
         System.out.println("Acceso permitido");

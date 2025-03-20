@@ -15,7 +15,8 @@ public class Main {
             System.out.println("Mensaje de error: " + e.getMessage());
             System.out.println("Pila de ejecución: ");
             e.printStackTrace(); //Muestra el rastreo de la pila de ejecución
-        }finally { //Parte del código que se ejecuta indpendientemente que haya excepción o no
+        }
+        finally { //Parte del código que se ejecuta indpendientemente que haya excepción o no
             System.out.println("Adios");
         }
 

@@ -1,4 +1,4 @@
-package solucionespdf;
+package solucionespdfDAM;
 
 public class Ejercicio2 {
     public static void main(String[] args) {

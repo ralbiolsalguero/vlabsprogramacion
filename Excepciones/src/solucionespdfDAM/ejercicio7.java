@@ -1,4 +1,4 @@
-package solucionespdf;
+package solucionespdfDAM;
 
 import java.util.Scanner;
 

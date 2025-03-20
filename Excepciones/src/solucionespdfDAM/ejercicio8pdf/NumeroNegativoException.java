@@ -1,4 +1,4 @@
-package solucionespdf.ejercicio8pdf;
+package solucionespdfDAM.ejercicio8pdf;
 
 public class NumeroNegativoException extends Exception{
     public NumeroNegativoException(){

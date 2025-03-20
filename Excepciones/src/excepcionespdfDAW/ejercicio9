@@ -1,0 +1,5 @@
+Las excepciones de RunTimeException, no son controladas
+
+No es obligatorio el uso del try-catch ni del throws
+
+IndexOutOfBoundsException

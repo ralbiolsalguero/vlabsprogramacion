@@ -1,0 +1,3 @@
+- Tipo de excepction
+- Mensaje de error .getMessage();
+- Linea de donde se encuentra el error
