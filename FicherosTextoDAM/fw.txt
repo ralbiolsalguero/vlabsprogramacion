@@ -1,0 +1,3 @@
+Primera linea con BufferedWriter
+Segunda lineaTercera linea con PrintWriter
+Cuarta linea sin salto
